@@ -1,7 +1,7 @@
 # Hello!
 
-Welcome to this test file where you waste your time reading this sentence.
+Welcome to this test file.
 
 We be testing how merging commits with the same diffs work!
 
-Test code :)
+See the "conflict resolved" commit where there exists no diffs
